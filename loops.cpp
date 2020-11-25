@@ -14,7 +14,8 @@ int main()
 
     }
     cout<<sum<<endl;
-
+    cout<< "done with for loops";
+    cout<< "perfect"; 
 return 0;
     
 }
